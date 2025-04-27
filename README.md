@@ -2,7 +2,8 @@
 
 This project visualizes the process of NFC (Near Field Communication) coin cloning and the security measures to prevent it. It's a simulation built using Phaser, a JavaScript game framework.
 
-**Documentation:** [https://argodewana1.gitbook.io/nfcanticlonervisualisation](https://argodewana1.gitbook.io/nfcanticlonervisualisation)
+* **Documentation:** [https://argodewana1.gitbook.io/nfcanticlonervisualisation](https://argodewana1.gitbook.io/nfcanticlonervisualisation)
+* **Demo:** [https://argodewana1.github.io/NFCAntiCloneVisualization](https://argodewana1.github.io/NFCAntiCloneVisualization)
 
 ## Overview
 
